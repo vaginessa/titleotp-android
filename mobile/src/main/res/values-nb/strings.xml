@@ -31,7 +31,7 @@
     <!-- Strings for the various dialogs. -->
     <string name="main_about_title">TitleOTP Versjon 1.0</string>
     <string name="main_about_message">Denne applikasjonen er en tilpasset tilpasning av FreeOTP-versjonen. &lt;br/&gt;© 2013–2023 - Red Hat, Inc., og andre.&lt;br/&gt;&lt;br/&gt;FreeOTP er lisensiert under &lt;a href=&quot;https://www.apache.org/licenses/LICENSE-2.0.html&quot;&gt;Apache 2.0&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;For mer informasjon, besøk &lt;br/&gt;&lt;a href=&quot;https://www.titleotp.com&quot;&gt;https://www.titleotp.com&lt;/a&gt;</string>
-    <string name="main_welcome">Velkommen til FreeOTP!\n\nLegg til en nøkkel for å komme i gang.</string>
+    <string name="main_welcome">Velkommen til TitleOTP!\n\nLegg til en nøkkel for å komme i gang.</string>
     <string name="main_deletion_title">Slett valgte nøkler?</string>
     <string name="main_deletion_message">Sletting av en nøkkel deaktiverer den ikke på tjenesten. Hvis du fortsetter, kan du bli utestengt fra kontoen din. Sletting av en nøkkel kan ikke angres.</string>
     <string name="main_unsafe_title">Nøkkel er usikker!</string>
@@ -55,7 +55,7 @@
     <!-- Strings for the password activity. -->
     <string name="password">Passord</string>
     <string name="password_confirm">Bekreft Passord</string>
-    <string name="password_info">Sikkerhetskopiering av nøkler lar deg gjenopprette data ved tap og overføre dine nøkler til en ny enhet uten problemer. Sikkerhetskopier er kryptert med passordet nedenfor. Sikkerheten til sikkerhetskopiene avhenger av et sterkt passord. Sikkerhetsmodellen til FreeOTP dikterer at dette passordet IKKE kan endres senere. Vennligst ta dette i betraktning når du velger et passord.</string>
+    <string name="password_info">Sikkerhetskopiering av nøkler lar deg gjenopprette data ved tap og overføre dine nøkler til en ny enhet uten problemer. Sikkerhetskopier er kryptert med passordet nedenfor. Sikkerheten til sikkerhetskopiene avhenger av et sterkt passord. Sikkerhetsmodellen til TitleOTP dikterer at dette passordet IKKE kan endres senere. Vennligst ta dette i betraktning når du velger et passord.</string>
     <string name="password_match">Passordene stemmer ikke overens!</string>
 
     <!-- Strings for Manual Add activity -->
@@ -95,9 +95,9 @@
     <string name="backup_title">Sikkerhetskopi</string>
     <string name="restore_title">Gjenopprett</string>
     <string name="backup_restore_title">Sikkerhetskopi og Gjenoppretting</string>
-    <string name="keystore_migration_explanation">FreeOTP-nøkler er nå migrert til Android KeyStore! Dette gir økt sikkerhet for nøkkelhemmeligheter, men nøkkelmaterialet er ikke eksporterbart. \n\nSikkerhetskopi og gjenopprettingsfunksjonalitet er nå lagt til for å sikre at nøkler kan gjenopprettes. Du vil bli bedt om å opprette et hovedpassord for å sette opp kryptert sikkerhetskopi av nøkler.</string>
+    <string name="keystore_migration_explanation">TitleOTP-nøkler er nå migrert til Android KeyStore! Dette gir økt sikkerhet for nøkkelhemmeligheter, men nøkkelmaterialet er ikke eksporterbart. \n\nSikkerhetskopi og gjenopprettingsfunksjonalitet er nå lagt til for å sikre at nøkler kan gjenopprettes. Du vil bli bedt om å opprette et hovedpassord for å sette opp kryptert sikkerhetskopi av nøkler.</string>
     <string name="manual_backup_explanation">Alternativt kan en kryptert sikkerhetskopi-datafil eksporteres til ekstern lagring fra appen. Toppverktøylinjen inneholder nå elementer merket \'Sikkerhetskopi\' og \'Gjenopprett\' for å bruke denne manuelle metoden for sikkerhetskopi.</string>
-    <string name="google_auto_backup_link">FreeOTP kan delta i Androids automatiske sikkerhetskopiering og gjenopprettingsfunksjonalitet. Denne &lt;a href=&quot;https://support.google.com/android/answer/2819582?hl=no&quot;&gt;Google-linken&lt;/a&gt; inneholder informasjon om hvordan du kan bruke denne metoden for sikkerhetskopi.</string>
+    <string name="google_auto_backup_link">TitleOTP kan delta i Androids automatiske sikkerhetskopiering og gjenopprettingsfunksjonalitet. Denne &lt;a href=&quot;https://support.google.com/android/answer/2819582?hl=no&quot;&gt;Google-linken&lt;/a&gt; inneholder informasjon om hvordan du kan bruke denne metoden for sikkerhetskopi.</string>
     <string name="backup_imageview">sikkerhetskopi bildevisning</string>
     <string name="keystore_image">keystore bilde</string>
     <string name="android_keystore_title">Android KeyStore</string>

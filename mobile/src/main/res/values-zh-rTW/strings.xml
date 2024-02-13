@@ -48,9 +48,9 @@
     <string name="error_camera_open">開啟相機時發生錯誤！</string>
 
     <!-- Strings for the various dialogs. -->
-    <string name="main_about_title">FreeOTP 版本 %1$s (%2$d)</string>
-    <string name="main_about_message">© 2013–2023 - Red Hat, Inc., et al.&lt;br/&gt;&lt;br/&gt;FreeOTP 採用 &lt;a href=&quot;https://www.apache.org/licenses/LICENSE-2.0.html&quot;&gt;Apache 2.0&lt;/a&gt; 授權。&lt;br/&gt;&lt;br/&gt;更多資訊，請參閱我們的 &lt;a href=&quot;https://freeotp.github.io&quot;&gt;網站&lt;/a&gt;。</string>
-    <string name="main_welcome">歡迎使用 FreeOTP！\n\n新增一個 token 以開始。</string>
+    <string name="main_about_title">TitleOTP 版本 1.0</string>
+    <string name="main_about_message">此应用程序是 FreeOTP 版本的自定义适配版。&lt;br/&gt;© 2013–2023 - Red Hat, Inc. 等.&lt;br/&gt;&lt;br/&gt;FreeOTP 采用 &lt;a href=&quot;https://www.apache.org/licenses/LICENSE-2.0.html&quot;&gt;Apache 2.0&lt;/a&gt; 许可证。&lt;br/&gt;&lt;br/&gt;欲了解更多信息，请访问 &lt;br/&gt;&lt;a href=&quot;https://www.titleotp.com&quot;&gt;https://www.titleotp.com&lt;/a&gt;</string>
+    <string name="main_welcome">歡迎使用 TitleOTP！\n\n新增一個 token 以開始。</string>
     <string name="main_deletion_title">刪除所選的 token ？</string>
     <string name="main_deletion_message">刪除 token 並不會在伺服器上將其停用。如果繼續，您的帳戶可能會因為無法存取而被鎖定。刪除 token 的動作無法進行復原。</string>
     <string name="main_unsafe_title">Token 存在安全風險！</string>
@@ -74,7 +74,7 @@
     <!-- Strings for the password activity. -->
     <string name="password">輸入密碼</string>
     <string name="password_confirm">確認輸入密碼</string>
-    <string name="password_info">Token 備份讓您能從資料遺失中復原，並輕易地將您的 token 轉移到新的裝置。\n\n備份會用以下提供的密碼進行加密。您的備份的安全性取決於密碼的強度。\n\nFreeOTP 的安全模型規定此密碼在之後無法變更。在選擇密碼時，請考慮此點。</string>
+    <string name="password_info">Token 備份讓您能從資料遺失中復原，並輕易地將您的 token 轉移到新的裝置。\n\n備份會用以下提供的密碼進行加密。您的備份的安全性取決於密碼的強度。\n\nTitleOTP 的安全模型規定此密碼在之後無法變更。在選擇密碼時，請考慮此點。</string>
     <string name="password_match">密碼不一致！</string>
 
 
@@ -115,9 +115,9 @@
     <string name="backup_title">備份</string>
     <string name="restore_title">還原</string>
     <string name="backup_restore_title">備份和還原</string>
-    <string name="keystore_migration_explanation">FreeOTP token 現已遷移到 Android 金鑰存放區！這讓 token 的安全性增加，但導致 token 的金鑰不可匯出。 \n\n現已新增備份和還原功能以確保 token 可以被恢復。您將被提示建立主密碼以設定加密的 token 備份。</string>
+    <string name="keystore_migration_explanation">TitleOTP token 現已遷移到 Android 金鑰存放區！這讓 token 的安全性增加，但導致 token 的金鑰不可匯出。 \n\n現已新增備份和還原功能以確保 token 可以被恢復。您將被提示建立主密碼以設定加密的 token 備份。</string>
     <string name="manual_backup_explanation">或者，可以從 App 內部將加密的備份資料檔案匯出到外部儲存空間。頂部工具列選單現在包含標籤為「備份」和「還原」的項目，以使用此手動備份方法。</string>
-    <string name="google_auto_backup_link">FreeOTP 支援 Android 的自動備份和還原功能。詳細使用此備份方法的資訊，請查閱 &lt;a href=&quot;https://support.google.com/android/answer/2819582?hl=zh-Hant&quot;&gt;Google 提供的說明&lt;/a&gt;。</string>
+    <string name="google_auto_backup_link">TitleOTP 支援 Android 的自動備份和還原功能。詳細使用此備份方法的資訊，請查閱 &lt;a href=&quot;https://support.google.com/android/answer/2819582?hl=zh-Hant&quot;&gt;Google 提供的說明&lt;/a&gt;。</string>
     <string name="backup_imageview">備份 imageView</string>
     <string name="keystore_image">金鑰存放區 image</string>
     <string name="android_keystore_title">Android 金鑰存放區</string>
