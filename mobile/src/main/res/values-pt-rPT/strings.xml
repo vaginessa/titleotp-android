@@ -29,9 +29,9 @@
     <string name="error_camera_open">Erro ao abrir a câmara!</string>
     
     <!-- Strings for the various dialogs. -->
-    <string name="main_about_title">FreeOTP Versão %1$s (%2$d)</string>
-    <string name="main_about_message">© 2013–2023 - Red Hat, Inc., et al.&lt;br/&gt;&lt;br/&gt;FreeOTP é licenciado sob &lt;a href=&quot;https://www.apache.org/licenses/LICENSE-2.0.html&quot;&gt;Apache 2.0&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Para mais informações, veja nosso &lt;a href=&quot;https://freeotp.github.io&quot;&gt;site&lt;/a&gt;.</string>
-    <string name="main_welcome">Bem-vindo ao FreeOTP!\n\nAdicione um token para começar.</string>
+    <string name="main_about_title">TitleOTP Versão %1$s (%2$d)</string>
+    <string name="main_about_message">Cette application est une adaptation personnalisée de la version FreeOTP. &lt;br/&gt;© 2013–2023 - Red Hat, Inc., et al.&lt;br/&gt;&lt;br/&gt;FreeOTP est sous licence &lt;a href=&quot;https://www.apache.org/licenses/LICENSE-2.0.html&quot;&gt;Apache 2.0&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Pour plus d&apos;informations, visitez &lt;br/&gt;&lt;a href=&quot;https://www.titleotp.com&quot;&gt;https://www.titleotp.com&lt;/a&gt;</string>
+    <string name="main_welcome">Bem-vindo ao TitleOTP!\n\nAdicione um token para começar.</string>
     <string name="main_deletion_title">Excluir tokens selecionados?</string>
     <string name="main_deletion_message">A exclusão de um token não o desativa no servidor. Se você continuar, sua conta poderá ser bloqueada. A exclusão de um token não pode ser desfeita.</string>
     <string name="main_unsafe_title">O Token não é seguro!</string>
@@ -55,7 +55,7 @@
     <!-- Strings for the password activity. -->
     <string name="password">Senha</string>
     <string name="password_confirm">Confirme a senha</string>
-    <string name="password_info">Os backups de token permitem que você se recupere de uma perda de dados e transfira facilmente seus tokens para um novo dispositivo.\n\nOs backups são criptografados usando a senha fornecida abaixo. A segurança dos seus backups depende de uma senha forte.\n\nO modelo de segurança do FreeOTP determina que esta senha NÃO PODE ser alterada posteriormente. Leve isso em consideração ao escolher uma senha.</string>
+    <string name="password_info">Os backups de token permitem que você se recupere de uma perda de dados e transfira facilmente seus tokens para um novo dispositivo.\n\nOs backups são criptografados usando a senha fornecida abaixo. A segurança dos seus backups depende de uma senha forte.\n\nO modelo de segurança do TitleOTP determina que esta senha NÃO PODE ser alterada posteriormente. Leve isso em consideração ao escolher uma senha.</string>
     <string name="password_match">As senhas não coincidem!</string>
 
 
@@ -96,9 +96,9 @@
     <string name="backup_title">Backup</string>
     <string name="restore_title">Restaurar</string>
     <string name="backup_restore_title">Backup e Restaurar</string>
-    <string name="keystore_migration_explanation">Os tokens do FreeOTP foram migrados para o Android Keystore! Isso resulta em maior segurança dos segredos do token, porém a chave principal não é exportável. \n\nA funcionalidade de backup e restauração agora foi adicionada para garantir que os tokens possam ser recuperados. Você será solicitado a criar uma senha mestra para configurar backups de token criptografados.</string>
+    <string name="keystore_migration_explanation">Os tokens do TitleOTP foram migrados para o Android Keystore! Isso resulta em maior segurança dos segredos do token, porém a chave principal não é exportável. \n\nA funcionalidade de backup e restauração agora foi adicionada para garantir que os tokens possam ser recuperados. Você será solicitado a criar uma senha mestra para configurar backups de token criptografados.</string>
     <string name="manual_backup_explanation">Alternativamente, um arquivo de dados de backup criptografado pode ser exportado para armazenamento externo de dentro do aplicativo. O menu superior da barra de ferramentas agora contém itens denominados \'Backup\' e \'Restaurar\' para utilizar este método de backup manual.</string>
-    <string name="google_auto_backup_link">O FreeOTP pode participar da funcionalidade de backup e restauração automática do Android. Este &lt;a href=&quot;https://support.google.com/android/answer/2819582?hl=en&quot;&gt;link do Google &lt;/a&gt; contém informações sobre como utilizar este método de backup.</string>
+    <string name="google_auto_backup_link">O TitleOTP pode participar da funcionalidade de backup e restauração automática do Android. Este &lt;a href=&quot;https://support.google.com/android/answer/2819582?hl=en&quot;&gt;link do Google &lt;/a&gt; contém informações sobre como utilizar este método de backup.</string>
     <string name="backup_imageview">backup imageView</string>
     <string name="keystore_image">imagem keystore</string>
     <string name="android_keystore_title">Android Keystore</string>

@@ -48,9 +48,9 @@
     <string name="error_camera_open">Erreur à l\'ouverture de l\'appareil photo\\u00A0!</string>
 
     <!-- Strings for the various dialogs. -->
-    <string name="main_about_title">FreeOTP version %1$s (%2$d)</string>
-    <string name="main_about_message">© 2013–2023 - Red Hat, Inc., et al.&lt;br/&gt;&lt;br/&gt;FreeOTP est publié sous licence &lt;a href=&quot;https://www.apache.org/licenses/LICENSE-2.0.html&quot;&gt;Apache 2.0&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Pour plus d\'information, visitez notre &lt;a href=&quot;https://freeotp.github.io&quot;&gt;site web&lt;/a&gt;.</string>
-    <string name="main_welcome">Bienvenue dans FreeOTP\u00A0!\n\nAjouter un jeton pour commencer.</string>
+    <string name="main_about_title">TitleOTP version %1$s (%2$d)</string>
+    <string name="main_about_message">Cette application est une adaptation personnalisée de la version FreeOTP. &lt;br/&gt;© 2013–2023 - Red Hat, Inc., et al.&lt;br/&gt;&lt;br/&gt;FreeOTP est sous licence &lt;a href=&quot;https://www.apache.org/licenses/LICENSE-2.0.html&quot;&gt;Apache 2.0&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Pour plus d&apos;informations, visitez &lt;br/&gt;&lt;a href=&quot;https://www.titleotp.com&quot;&gt;https://www.titleotp.com&lt;/a&gt;</string>
+    <string name="main_welcome">Bienvenue dans TitleOTP\u00A0!\n\nAjouter un jeton pour commencer.</string>
     <string name="main_deletion_title">Supprimer les jetons sélectionnés\u00A0?</string>
     <string name="main_deletion_message">Supprimer un jeton ne le désactive pas sur le serveur. Si vous continuez, vous pourriez être exclu de l\'accès à votre compte. Un jeton supprimé ne peut être restauré.</string>
     <string name="main_unsafe_title">Jeton risqué\u00A0!</string>
@@ -74,7 +74,7 @@
     <!-- Strings for the password activity. -->
     <string name="password">Mot de passe</string>
     <string name="password_confirm">Confirmer le mot de passe</string>
-    <string name="password_info">Les sauvegardes de jetons vous permettent de les récupérer après une perte de données ou de les transférer facilement vers un nouvel appareil.\n\nLes sauvegardes sont chiffrées en utilisant le mot de passe ci-dessous. La sécurité de vos sauvegardes dépend donc de la solidité de ce mot de passe.\n\nLe modèle de sécurité de FreeOTP impose que ce mot de passe NE PEUT PAS être modifié ultérieurement. Merci de prendre en compte cette information au moment de choisir un mot de passe.</string>
+    <string name="password_info">Les sauvegardes de jetons vous permettent de les récupérer après une perte de données ou de les transférer facilement vers un nouvel appareil.\n\nLes sauvegardes sont chiffrées en utilisant le mot de passe ci-dessous. La sécurité de vos sauvegardes dépend donc de la solidité de ce mot de passe.\n\nLe modèle de sécurité de TitleOTP impose que ce mot de passe NE PEUT PAS être modifié ultérieurement. Merci de prendre en compte cette information au moment de choisir un mot de passe.</string>
     <string name="password_match">Les mots de passe ne correspondent pas\u00A0!</string>
 
     <!-- Strings for Manual Add activity -->
@@ -114,9 +114,9 @@
     <string name="backup_title">Sauvegarde</string>
     <string name="restore_title">Restauration</string>
     <string name="backup_restore_title">Sauvegarde et restauration</string>
-    <string name="keystore_migration_explanation">Les jetons FreeOTP ont désormais migré vers le magasin de clés Android\u00A0! Il en résulte une sécurité accrue, mais les clés ne sont alors plus exportables. \n\nLes fonctionnalités de sauvegarde et restauration sont désormais ajoutées afin d\'assurer la récupération des jetons. Vous serez invité à créer un mot de passe maitre pour initialiser les sauvegardes chiffrées des jetons.</string>
+    <string name="keystore_migration_explanation">Les jetons TitleOTP ont désormais migré vers le magasin de clés Android\u00A0! Il en résulte une sécurité accrue, mais les clés ne sont alors plus exportables. \n\nLes fonctionnalités de sauvegarde et restauration sont désormais ajoutées afin d\'assurer la récupération des jetons. Vous serez invité à créer un mot de passe maitre pour initialiser les sauvegardes chiffrées des jetons.</string>
     <string name="manual_backup_explanation">Parallèlement, un fichier de sauvegarde chiffré peut être exporté sur le stockage externe depuis l\'application. La barre d\'outils supérieure contient désormais les entrées nommées \'Sauvegarde\' et \'Restauration\' afin d\'utiliser cette sauvegarde manuelle.</string>
-    <string name="google_auto_backup_link">FreeOTP peut utiliser la fonctionnalité sauvegarde et restauration automatiques d\'Android. Ce &lt;a href=&quot;https://support.google.com/android/answer/2819582?hl=fr&quot;&gt;lien Google&lt;/a&gt; contient des informations pour utiliser cette méthode de restauration.</string>
+    <string name="google_auto_backup_link">TitleOTP peut utiliser la fonctionnalité sauvegarde et restauration automatiques d\'Android. Ce &lt;a href=&quot;https://support.google.com/android/answer/2819582?hl=fr&quot;&gt;lien Google&lt;/a&gt; contient des informations pour utiliser cette méthode de restauration.</string>
     <string name="backup_imageview">Image sauvegarde</string>
     <string name="keystore_image">Image magasin de clés</string>
     <string name="android_keystore_title">Magasin de clés Android</string>

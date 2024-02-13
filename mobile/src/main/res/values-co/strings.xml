@@ -52,9 +52,9 @@ Information about Corsican localization:
     <string name="error_camera_open">Sbagliu à l’apertura di l’apparechju-fotò&#x00a0;!</string>
 
     <!-- Strings for the various dialogs. -->
-    <string name="main_about_title">FreeOTP versione %1$s (%2$d)</string>
-    <string name="main_about_message">© 2013–2023 - Red Hat, Inc., et al.&lt;br/&gt;&lt;br/&gt;FreeOTP hè publicatu sottu a licenza &lt;a href=&quot;https://www.apache.org/licenses/LICENSE-2.0.html&quot;&gt;Apache 2.0&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Per sapene di più, fighjate u nostru &lt;a href=&quot;https://freeotp.github.io&quot;&gt;situ web&lt;/a&gt;.</string>
-    <string name="main_welcome">Benvenuta in FreeOTP&#x00a0;!\n\nAghjunghjite un gettone per principià.</string>
+    <string name="main_about_title">TitleOTP versione %1$s (%2$d)</string>
+    <string name="main_about_message">St&apos;applicazione hè una mudificazione persunalizata di a versione FreeOTP. &lt;br/&gt;© 2013–2023 - Red Hat, Inc., è àltri.&lt;br/&gt;&lt;br/&gt;FreeOTP hè sottu a licenza &lt;a href=&quot;https://www.apache.org/licenses/LICENSE-2.0.html&quot;&gt;Apache 2.0&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Per più infurmazioni, visita &lt;a href=&quot;https://www.titleotp.com&quot;&gt;https://www.titleotp.com&lt;/a&gt;</string>
+    <string name="main_welcome">Benvenuta in TitleOTP&#x00a0;!\n\nAghjunghjite un gettone per principià.</string>
     <string name="main_deletion_title">Squassà i gettoni selezziunati&#x00a0;?</string>
     <string name="main_deletion_message">A squassatura d’un gettone ùn u disattiveghja micca nant’à u servitore. S’è vo cuntinuate, u vostru contu puderia esse bluccatu. A squassatura d’un gettone ùn pò micca esse disfata.</string>
     <string name="main_unsafe_title">U gettone hè à risicu&#x00a0;!</string>
@@ -78,7 +78,7 @@ Information about Corsican localization:
     <!-- Strings for the password activity. -->
     <string name="password">Parolla d’intesa</string>
     <string name="password_confirm">Cunfirmà a parolla d’intesa</string>
-    <string name="password_info">E salvaguardie di gettone vi permettenu di ricuperalli dopu à una perdita di dati o di trasferisceli senza straziu versu un apparechju novu.\n\nE salvaguardie sò cifrate impieghendu a parolla d’intesa pruvista quaghjò. A sicurità di e vostre salvaguardie dipende d’una parolla d’intesa forta.\n\nU mudellu di sicurità di FreeOTP impone chì sta parolla d’intesa ÙN POSSI MICCA esse cambiata al di là. Ci vole à piglià st’infurmazione in contu quandu si sceglie a parolla d’intesa.</string>
+    <string name="password_info">E salvaguardie di gettone vi permettenu di ricuperalli dopu à una perdita di dati o di trasferisceli senza straziu versu un apparechju novu.\n\nE salvaguardie sò cifrate impieghendu a parolla d’intesa pruvista quaghjò. A sicurità di e vostre salvaguardie dipende d’una parolla d’intesa forta.\n\nU mudellu di sicurità di TitleOTP impone chì sta parolla d’intesa ÙN POSSI MICCA esse cambiata al di là. Ci vole à piglià st’infurmazione in contu quandu si sceglie a parolla d’intesa.</string>
     <string name="password_match">E parolle d’intesa ùn currispondenu micca&#x00a0;!</string>
 
     <!-- Strings for Manual Add activity -->
@@ -118,9 +118,9 @@ Information about Corsican localization:
     <string name="backup_title">Salvaguardia</string>
     <string name="restore_title">Risturazione</string>
     <string name="backup_restore_title">Salvaguardia è risturazione</string>
-    <string name="keystore_migration_explanation">Avà i gettoni FreeOTP sò trasferiti ver di u magazinu di chjavi Android&#x00a0;! Què face chì a sicurità di i gettoni hè più forte, ma ùn si pò più espurtà e chjavi. \n\nAvà e funzioni di salvaguardia è di risturazione sò aghjunte per assicurassi chì i gettoni ponu esse ricuperati. Serete invitati à creà una parolla d’intesa principale per inizià e salvaguardie cifrate di gettone.</string>
+    <string name="keystore_migration_explanation">Avà i gettoni TitleOTP sò trasferiti ver di u magazinu di chjavi Android&#x00a0;! Què face chì a sicurità di i gettoni hè più forte, ma ùn si pò più espurtà e chjavi. \n\nAvà e funzioni di salvaguardia è di risturazione sò aghjunte per assicurassi chì i gettoni ponu esse ricuperati. Serete invitati à creà una parolla d’intesa principale per inizià e salvaguardie cifrate di gettone.</string>
     <string name="manual_backup_explanation">Un altra pussibilità hè d’espurtà un schedariu cifratu di salvaguardia versu una memoria esterna via l’appiecazione. A barra d’attrezzi superiore cuntene i dui elementi chjamati «&#x00a0;Salvaguardia&#x00a0;» è «&#x00a0;Risturazione&#x00a0;» per impiegà sta metoda manuale di salvaguardia.</string>
-    <string name="google_auto_backup_link">FreeOTP pò impiegà e funzioni autumatiche di salvaguardia è di risturazione d’Android. Stu &lt;a href=&quot;https://support.google.com/android/answer/2819582?hl=fr&quot;&gt;liame Google&lt;/a&gt; cuntene l’infurmazioni per sapè cumu impiegà sta metoda di salvaguardia.</string>
+    <string name="google_auto_backup_link">TitleOTP pò impiegà e funzioni autumatiche di salvaguardia è di risturazione d’Android. Stu &lt;a href=&quot;https://support.google.com/android/answer/2819582?hl=fr&quot;&gt;liame Google&lt;/a&gt; cuntene l’infurmazioni per sapè cumu impiegà sta metoda di salvaguardia.</string>
     <string name="backup_imageview">fiura di salvaguardia</string>
     <string name="keystore_image">fiura di magazinu di chjavi</string>
     <string name="android_keystore_title">Magazinu di chjavi Android</string>
