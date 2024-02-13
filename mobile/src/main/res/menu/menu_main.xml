@@ -22,7 +22,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="org.fedorahosted.freeotp.main.Activity">
+    tools:context="org.raziexchange.titleotp.main.Activity">
     <item
         android:visible="false"
         android:id="@+id/action_up"
