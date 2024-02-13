@@ -30,7 +30,7 @@
     
     <!-- Strings for the various dialogs. -->
     <string name="main_about_title">TitleOTP Versão %1$s (%2$d)</string>
-    <string name="main_about_message">Cette application est une adaptation personnalisée de la version FreeOTP. &lt;br/&gt;© 2013–2023 - Red Hat, Inc., et al.&lt;br/&gt;&lt;br/&gt;FreeOTP est sous licence &lt;a href=&quot;https://www.apache.org/licenses/LICENSE-2.0.html&quot;&gt;Apache 2.0&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Pour plus d&apos;informations, visitez &lt;br/&gt;&lt;a href=&quot;https://www.titleotp.com&quot;&gt;https://www.titleotp.com&lt;/a&gt;</string>
+    <string name="main_about_message">Esta aplicação é uma adaptação personalizada da versão FreeOTP. &lt;br/&gt;© 2013–2023 - Red Hat, Inc., e outros.&lt;br/&gt;&lt;br/&gt;O FreeOTP está licenciado sob a &lt;a href=&quot;https://www.apache.org/licenses/LICENSE-2.0.html&quot;&gt;Apache 2.0&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Para mais informações, visite &lt;br/&gt;&lt;a href=&quot;https://www.titleotp.com&quot;&gt;https://www.titleotp.com&lt;/a&gt;</string>
     <string name="main_welcome">Bem-vindo ao TitleOTP!\n\nAdicione um token para começar.</string>
     <string name="main_deletion_title">Excluir tokens selecionados?</string>
     <string name="main_deletion_message">A exclusão de um token não o desativa no servidor. Se você continuar, sua conta poderá ser bloqueada. A exclusão de um token não pode ser desfeita.</string>
